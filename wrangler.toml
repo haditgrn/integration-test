@@ -1,0 +1,5 @@
+﻿# push 03/09/2026 22:20:18
+name = 'integration-tests'
+main = 'worker.js'
+compatibility_date = '2026-03-09'
+workers_dev = true
